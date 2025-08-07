@@ -18,6 +18,9 @@ cd franklin
 docker compose -f docker-compose/docker-compose.yml up
 ```
 
+📫 **Questions, feedback, or commercial use?**  
+Contact: [franklinai.project@gmail.com](mailto:franklinai.project@gmail.com)
+
 ## License
 Franklin is licensed under the [Prosperity Public License 3.0.0](https://polyformproject.org/licenses/prosperity/3.0.0/).  
 You may use it freely for non-commercial purposes.  
